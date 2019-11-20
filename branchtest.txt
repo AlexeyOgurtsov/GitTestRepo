@@ -1,2 +1,2 @@
 This file is made on branch "branchtest"
-branchtest: NEWLINE
+branchtest: NEWLINE {branchtest new}
